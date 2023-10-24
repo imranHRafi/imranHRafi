@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rafi - a Passionate Code Architect 🚀
+# 👋 Hello, I'm Rafi - Passionate Web Developer | React.js | Next.js |TypeScript | Chakra UI | Tailwind CSS 🚀
 
 Welcome to my world of code and creativity. I'm Rafi, an introverted enthusiast who thrives on building digital wonders. Let's dive into my journey through the digital realm!
 
